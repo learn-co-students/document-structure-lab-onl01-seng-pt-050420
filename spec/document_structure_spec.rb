@@ -45,6 +45,6 @@ RSpec.describe "Well-Formed HTML Document" do
 
       expect(html_file_contents).to include('</title>')
     end
-  end
+  end 
 
 end
